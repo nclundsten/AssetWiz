@@ -5,6 +5,7 @@ return array(
         'Application',
         'Attribute',
         'AttributeManager',
+        'Install',
     ),
 
     // These are various options for the listeners attached to the ModuleManager
