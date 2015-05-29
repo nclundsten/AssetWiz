@@ -1,0 +1,14 @@
+{
+    "name": "nclundsten/asset",
+    "description": "",
+    "keywords": [
+        "framework",
+        "zf2",
+        "asset",
+        "management"
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "~2.3"
+    }
+}

@@ -1,0 +1,4 @@
+vendor/*
+config/*.local.php
+config/development.config.php
+config/autoload/*.local.php
